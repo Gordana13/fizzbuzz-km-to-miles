@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-stevilo = 0
 
 stevilo = int(raw_input("Vnesite število med 1 in 100: "))
 for x in range (1, stevilo + 1):
